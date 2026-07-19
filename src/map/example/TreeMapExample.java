@@ -15,6 +15,7 @@ public class TreeMapExample {
         map1.put(109,"Orange");
         map1.put(109,"Pineapple"); // old value for key 109 will be removed and new value will be added
 
+
         System.out.println("map1 is : "+map1);
 
         map1.remove(106);
