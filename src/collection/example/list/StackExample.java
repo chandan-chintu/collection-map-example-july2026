@@ -4,9 +4,8 @@ import java.util.Stack;
 
 public class StackExample {
     public static void main(String[] args) {
-
         Stack<String> stck1 = new Stack<>();
-
+        //add dummy lines
         stck1.push("Guava");
         stck1.push("Mango");
         stck1.push("Orange");
